@@ -1,270 +1,272 @@
 {
-  "Mockups": [
+  "Sketches": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
+      "width": 2660,
+      "height": 2071,
+      "path": "./photos/Sketches/sketches_6.jpg",
+      "compressed_path": "./photos/Sketches/sketches_6.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": "./photos/Sketches/sketches_6.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "width": 1780,
+      "height": 2103,
+      "path": "./photos/Sketches/sketches_4.jpg",
+      "compressed_path": "./photos/Sketches/sketches_4.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/Sketches/sketches_4.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
+      "width": 1481,
+      "height": 2038,
+      "path": "./photos/Sketches/sketches_5.jpg",
+      "compressed_path": "./photos/Sketches/sketches_5.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "placeholder_path": "./photos/Sketches/sketches_5.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "width": 1815,
+      "height": 1684,
+      "path": "./photos/Sketches/sketches_1.jpg",
+      "compressed_path": "./photos/Sketches/sketches_1.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "placeholder_path": "./photos/Sketches/sketches_1.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
+      "width": 1406,
+      "height": 2050,
+      "path": "./photos/Sketches/sketches_2.jpg",
+      "compressed_path": "./photos/Sketches/sketches_2.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "placeholder_path": "./photos/Sketches/sketches_2.placeholder.jpg"
+    },
+    {
+      "width": 1450,
+      "height": 1941,
+      "path": "./photos/Sketches/sketches_3.jpg",
+      "compressed_path": "./photos/Sketches/sketches_3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/sketches_3.placeholder.jpg"
+    },
+    {
+      "width": 1815,
+      "height": 1684,
+      "path": "./photos/Sketches/sketches.jpg",
+      "compressed_path": "./photos/Sketches/sketches.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/sketches.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Paintings": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
+      "width": 640,
+      "height": 640,
+      "path": "./photos/Paintings/paintings_02.jpg",
+      "compressed_path": "./photos/Paintings/paintings_02.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_02.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
+      "width": 1486,
+      "height": 2026,
+      "path": "./photos/Paintings/paintings_16.jpg",
+      "compressed_path": "./photos/Paintings/paintings_16.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_16.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "width": 640,
+      "height": 640,
+      "path": "./photos/Paintings/paintings_03.jpg",
+      "compressed_path": "./photos/Paintings/paintings_03.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_03.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "width": 2489,
+      "height": 1900,
+      "path": "./photos/Paintings/paintings_15.jpg",
+      "compressed_path": "./photos/Paintings/paintings_15.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_15.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "width": 2472,
+      "height": 1842,
+      "path": "./photos/Paintings/paintings_14.jpg",
+      "compressed_path": "./photos/Paintings/paintings_14.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_14.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "width": 2449,
+      "height": 1952,
+      "path": "./photos/Paintings/paintings_10.jpg",
+      "compressed_path": "./photos/Paintings/paintings_10.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_10.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "width": 2442,
+      "height": 1595,
+      "path": "./photos/Paintings/paintings_04.jpg",
+      "compressed_path": "./photos/Paintings/paintings_04.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_04.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "width": 2320,
+      "height": 1696,
+      "path": "./photos/Paintings/paintings_05.jpg",
+      "compressed_path": "./photos/Paintings/paintings_05.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_05.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "width": 1524,
+      "height": 1916,
+      "path": "./photos/Paintings/paintings_11.jpg",
+      "compressed_path": "./photos/Paintings/paintings_11.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_11.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "width": 1309,
+      "height": 1670,
+      "path": "./photos/Paintings/paintings_07.jpg",
+      "compressed_path": "./photos/Paintings/paintings_07.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_07.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "width": 2328,
+      "height": 1748,
+      "path": "./photos/Paintings/paintings_13.jpg",
+      "compressed_path": "./photos/Paintings/paintings_13.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Paintings/paintings_13.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "width": 1608,
+      "height": 2073,
+      "path": "./photos/Paintings/paintings_12.jpg",
+      "compressed_path": "./photos/Paintings/paintings_12.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_12.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "width": 2677,
+      "height": 1833,
+      "path": "./photos/Paintings/paintings_06.jpg",
+      "compressed_path": "./photos/Paintings/paintings_06.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_06.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
+      "width": 1392,
+      "height": 1755,
+      "path": "./photos/Paintings/paintings.jpg",
+      "compressed_path": "./photos/Paintings/paintings.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "placeholder_path": "./photos/Paintings/paintings.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
+      "width": 1392,
+      "height": 1755,
+      "path": "./photos/Paintings/paintings_08.jpg",
+      "compressed_path": "./photos/Paintings/paintings_08.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_08.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
+      "width": 2130,
+      "height": 1528,
+      "path": "./photos/Paintings/paintings_09.jpg",
+      "compressed_path": "./photos/Paintings/paintings_09.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "placeholder_path": "./photos/Paintings/paintings_09.placeholder.jpg"
+    }
+  ],
+  "Ballerina": [
+    {
+      "width": 1430,
+      "height": 1831,
+      "path": "./photos/Ballerina/ballerina_01.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_01.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ballerina/ballerina_01.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
+      "width": 1209,
+      "height": 1636,
+      "path": "./photos/Ballerina/ballerina_03.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_03.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_03.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
+      "width": 1332,
+      "height": 1671,
+      "path": "./photos/Ballerina/ballerina_02.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_02.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_02.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
+      "width": 1310,
+      "height": 1862,
+      "path": "./photos/Ballerina/ballerina_06.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_06.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_06.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
+      "width": 1150,
+      "height": 1774,
+      "path": "./photos/Ballerina/ballerina_07.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_07.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_07.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
+      "width": 1540,
+      "height": 2245,
+      "path": "./photos/Ballerina/ballerina_05.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_05.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_05.placeholder.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
+      "width": 1324,
+      "height": 1749,
+      "path": "./photos/Ballerina/ballerina_10.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_10.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_10.placeholder.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
+      "width": 1396,
+      "height": 1775,
+      "path": "./photos/Ballerina/ballerina_04.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_04.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_04.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
+      "width": 1290,
+      "height": 1743,
+      "path": "./photos/Ballerina/ballerina_08.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina_08.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina_08.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
+      "width": 1290,
+      "height": 1743,
+      "path": "./photos/Ballerina/ballerina.jpg",
+      "compressed_path": "./photos/Ballerina/ballerina.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": "./photos/Ballerina/ballerina.placeholder.jpg"
     }
   ]
 }
